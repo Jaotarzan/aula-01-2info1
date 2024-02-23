@@ -16,5 +16,10 @@ function decrementar() {
 </template>
 
 <style scoped>
-
+button {
+  color: blueviolet;
+  font-weight: bold;
+  background-color: black;
+  border: none;
+}
 </style>
